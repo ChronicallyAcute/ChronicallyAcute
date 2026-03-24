@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChronicallyAcute
 - 👀 I’m interested in science, medicine, plants & people
-- 🌱 I’m currently learning Python for Beginners
-- 💞️ I’m looking to collaborate on scripts for automating excel & proof-reading
+- 🌱 I’m currently learning Python for Laboratory Automation
+- 💞️ I’m looking to collaborate on scripts for automating administrative tasks & data handling operations
 - 📫 How to reach me ChronicallyAcute@gmail.com
 
 <!---
